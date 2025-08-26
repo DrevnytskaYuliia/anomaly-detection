@@ -1,3 +1,7 @@
+##  AI-Assisted Financial Anomaly Detection
+
+###  Project Overview  
+
 HI! I’m building a tool to make financial review smarter and easier.
 It takes quarterly and annual financial statements (Balance Sheets, P&L, Cash Flow) and runs them through a mix of rules and machine learning.
 
